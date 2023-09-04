@@ -27,7 +27,7 @@
 Demo (loading, wait a few seconds) :
 
 <p align="center">
-<img src="assets/lv_0_20230502125528.gif" alt="androiddevnotes logo"></img>
+<img src="demo/Untitled.gif" alt="androiddevnotes logo"></img>
 </p>
 
 ## Getting Started
