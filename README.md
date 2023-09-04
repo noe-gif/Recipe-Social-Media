@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-<img src="assets/Sans-titre.png" alt="banner"></img>
+<img src="https://cdn.discordapp.com/attachments/774360587391860769/1148176896320872448/FoodCLUB.png" alt="banner"></img>
 </p>
 
 
