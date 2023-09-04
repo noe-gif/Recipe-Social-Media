@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/Target%20SDK-33%20(Android%2013)-566573?logo=android&logoColor=white)
 [![Crowdin](https://badges.crowdin.net/inure/localized.svg)](https://crowdin.com/project/inure)
 
-# MBTI matching dating app
+# Recipe social media app
 
 Demo (loading, wait a few seconds) :
 
@@ -34,7 +34,7 @@ Demo (loading, wait a few seconds) :
 
 Follow these instructions to build and run the project
 
-### Setup React Native
+### Setup Jetpack compose
 
 A detailed guide for react native cli platforms setup could be find [here](https://reactnative.dev/docs/environment-setup)
 
